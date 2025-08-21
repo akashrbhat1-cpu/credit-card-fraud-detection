@@ -1,4 +1,14 @@
-data/
-notebooks/.ipynb_checkpoints/
-**/__pycache__/
-.venv/
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data files
+*.pkl
+*.joblib
+
+# Environment folders
+venv/
+.env
+
