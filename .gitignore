@@ -5,7 +5,6 @@ __pycache__/
 *.pyd
 
 # Data files
-*.pkl
 *.joblib
 
 # Environment folders
